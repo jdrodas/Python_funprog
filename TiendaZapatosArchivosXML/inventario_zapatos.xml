@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<zapatos>
+   <zapato código="1">
+      <marca>Adidas</marca>
+      <color>Azul</color>
+      <talla>12</talla>
+      <estilo>Vintage</estilo>
+   </zapato>
+   <zapato código="2">
+      <marca>Reebok</marca>
+      <color>Negro</color>
+      <talla>5</talla>
+      <estilo>Urbanos</estilo>
+   </zapato>
+   <zapato código="3">
+      <marca>Nike</marca>
+      <color>Gris</color>
+      <talla>14</talla>
+      <estilo>Vintage</estilo>
+   </zapato>
+   <zapato código="4">
+      <marca>Adidas</marca>
+      <color>Gris</color>
+      <talla>14</talla>
+      <estilo>Running</estilo>
+   </zapato>
+   <zapato código="5">
+      <marca>Reebok</marca>
+      <color>Azul</color>
+      <talla>5</talla>
+      <estilo>Running</estilo>
+   </zapato>
+   <zapato código="6">
+      <marca>Reebok</marca>
+      <color>Rojo</color>
+      <talla>5</talla>
+      <estilo>Running</estilo>
+   </zapato>
+   <zapato código="7">
+      <marca>Reebok</marca>
+      <color>Gris</color>
+      <talla>7</talla>
+      <estilo>Running</estilo>
+   </zapato>
+   <zapato código="8">
+      <marca>Nike</marca>
+      <color>Azul</color>
+      <talla>13</talla>
+      <estilo>Running</estilo>
+   </zapato>
+   <zapato código="9">
+      <marca>Reebok</marca>
+      <color>Rojo</color>
+      <talla>5</talla>
+      <estilo>Running</estilo>
+   </zapato>
+   <zapato código="10">
+      <marca>Puma</marca>
+      <color>Rojo</color>
+      <talla>9</talla>
+      <estilo>Vintage</estilo>
+   </zapato>
+</zapatos>

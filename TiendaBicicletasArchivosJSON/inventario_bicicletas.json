@@ -1,0 +1,51 @@
+{
+    "1": {
+        "Marca": "Shimano",
+        "Tamaño": "Grande",
+        "Cambios": 3,
+        "Color": "Blanco",
+        "Tracción": "Hibrida"
+    },
+    "2": {
+        "Marca": "BMX",
+        "Tamaño": "Pequeña",
+        "Cambios": 3,
+        "Color": "Rojo Carmesí",
+        "Tracción": "Mecánica"
+    },
+    "3": {
+        "Marca": "GW",
+        "Tamaño": "Infantil",
+        "Cambios": 7,
+        "Color": "Azul Eléctrico",
+        "Tracción": "Eléctrica"
+    },
+    "4": {
+        "Marca": "BMX",
+        "Tamaño": "Mediana",
+        "Cambios": 8,
+        "Color": "Rosa",
+        "Tracción": "Hibrida"
+    },
+    "5": {
+        "Marca": "Trek",
+        "Tamaño": "Mediana",
+        "Cambios": 2,
+        "Color": "Rojo Carmesí",
+        "Tracción": "Eléctrica"
+    },
+    "6": {
+        "Marca": "Shimano",
+        "Tamaño": "Grande",
+        "Cambios": 8,
+        "Color": "Rojo Carmesí",
+        "Tracción": "Eléctrica"
+    },
+    "7": {
+        "Marca": "BMX",
+        "Tamaño": "Grande",
+        "Cambios": 4,
+        "Color": "Rosa",
+        "Tracción": "Hibrida"
+    }
+}

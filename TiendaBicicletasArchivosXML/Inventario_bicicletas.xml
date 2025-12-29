@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bicicletas>
+   <bicicleta código="1">
+      <marca>GW</marca>
+      <tamaño>Pequeña</tamaño>
+      <cambios>9</cambios>
+      <color>Azul Eléctrico</color>
+      <tracción>Mecánica</tracción>
+   </bicicleta>
+   <bicicleta código="2">
+      <marca>BMX</marca>
+      <tamaño>Grande</tamaño>
+      <cambios>2</cambios>
+      <color>Rosa</color>
+      <tracción>Eléctrica</tracción>
+   </bicicleta>
+   <bicicleta código="3">
+      <marca>Shimano</marca>
+      <tamaño>Mediana</tamaño>
+      <cambios>7</cambios>
+      <color>Negro</color>
+      <tracción>Eléctrica</tracción>
+   </bicicleta>
+   <bicicleta código="4">
+      <marca>Trek</marca>
+      <tamaño>Gigante</tamaño>
+      <cambios>7</cambios>
+      <color>Rojo Carmesí</color>
+      <tracción>Eléctrica</tracción>
+   </bicicleta>
+</bicicletas>
