@@ -170,9 +170,16 @@ Este repo se encuentra en proceso de actualización a **Python 3.14.x**. Cada pr
 - Método 2: Selección (Selection Sort)
 - Método 3: Inserción (Insertion Sort)
 - Método 4: Nativo Python (sorted)
+- Actualizado a Python 3.14.x
 
+### 5. Arreglos y Matrices con Numpy
 
-### 5. Manipulación de Archivos
+### [Numpy_creacion_arrays](https://github.com/jdrodas/Python_funprog/tree/main/Numpy_creacion_arrays)
+- Demostrar la creación de arrays básicos desde listas usando la librería numpy
+- Arreglos de valores especiales: ceros, unos, matriz identidad, matriz constante
+- Actualizado a Python 3.14.x
+
+### 6. Manipulación de Archivos
 
 ### [TiendaZapatosArchivosCSV](https://github.com/jdrodas/Python_funprog/tree/main/TiendaZapatosArchivosCSV)
 - Aplicación que almacena un diccionario de inventario de zapatos en un
