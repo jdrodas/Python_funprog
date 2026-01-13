@@ -177,6 +177,8 @@ Este repo se encuentra en proceso de actualización a **Python 3.14.x**. Cada pr
 ### [Numpy_creacion_arrays](https://github.com/jdrodas/Python_funprog/tree/main/Numpy_creacion_arrays)
 - Demostrar la creación de arrays básicos desde listas usando la librería numpy
 - Arreglos de valores especiales: ceros, unos, matriz identidad, matriz constante
+- Creación de arreglos con secuencias numéricas
+- Creación de arreglos con valores aleatorios
 - Actualizado a Python 3.14.x
 
 ### 6. Manipulación de Archivos
