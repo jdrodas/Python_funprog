@@ -182,12 +182,16 @@ Este repo se encuentra en proceso de actualización a **Python 3.14.x**. Cada pr
 - Actualizado a Python 3.14.x
 
 ### [Numpy_propiedades_arrays](https://github.com/jdrodas/Python_funprog/tree/main/Numpy_propiedades_arrays)
-- Demostrar la creación de arrays básicos desde listas usando la librería numpy
-- Arreglos de valores especiales: ceros, unos, matriz identidad, matriz constante
-- Creación de arreglos con secuencias numéricas
-- Creación de arreglos con valores aleatorios
+- Demostrar las propiedades de los arreglos usando la librería numpy
+- Shape, ndim, size, dtype, itemsize, nbytes
+- Tipos de datos en arreglos: enteros, floats, booleanos
+- Metodos disponibles para obtener información sobre el manejo de memoria
 - Actualizado a Python 3.14.x
 
+### [Numpy_indexacion](https://github.com/jdrodas/Python_funprog/tree/main/Numpy_indexacion)
+- Demostrar cómo acceder a elementos individuales en arrays de diferentes dimensiones.
+- Actualizado a Python 3.14.x
+- 
 ### 6. Manipulación de Archivos
 
 ### [TiendaZapatosArchivosCSV](https://github.com/jdrodas/Python_funprog/tree/main/TiendaZapatosArchivosCSV)

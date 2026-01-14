@@ -8,7 +8,7 @@ Contacto:       Juan Dario Rodas - jdrodas@hotmail.com
 Propósito:
 ----------
 - Demostrar las propiedades de los arreglos usando la librería numpy
--- Shape, ndim, size, dtype, itemsize, nbytes
+- Shape, ndim, size, dtype, itemsize, nbytes
 - Tipos de datos en arreglos: enteros, floats, booleanos
 - Metodos disponibles para obtener información sobre el manejo de memoria
 ============================
