@@ -191,7 +191,11 @@ Este repo se encuentra en proceso de actualización a **Python 3.14.x**. Cada pr
 ### [Numpy_indexacion](https://github.com/jdrodas/Python_funprog/tree/main/Numpy_indexacion)
 - Demostrar cómo acceder a elementos individuales en arrays de diferentes dimensiones.
 - Actualizado a Python 3.14.x
-- 
+
+### [Numpy_rebanado](https://github.com/jdrodas/Python_funprog/tree/main/Numpy_rebanado)
+- Demostrar técnicas de slicing (rebanado) para extraer porciones de arrays, incluyendo indexación booleana y fancy indexing.
+- Actualizado a Python 3.14.x
+
 ### 6. Manipulación de Archivos
 
 ### [TiendaZapatosArchivosCSV](https://github.com/jdrodas/Python_funprog/tree/main/TiendaZapatosArchivosCSV)
